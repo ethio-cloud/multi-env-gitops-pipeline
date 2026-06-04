@@ -38,7 +38,21 @@ Developer pushes code to GitHub → GitHub Actions builds Docker image → Image
 
 ## Architecture Diagram
 
-![Architecture Diagram](screenshots/architecture-diagram.png)
+![Architecture Diagram](Screenshots/architecture-diagram.png)
+
+## Screenshots
+
+### EC2 Instances
+![Instances](Screenshots/EC2-Instances.png)
+
+### ECR Repository
+![ECR](Screenshots/ECR-Repo.png)
+
+### DEV Environment
+![DEV](Screenshots/Dev-Running.png)
+
+### GitHub Actions Pipeline
+![GitHub](Screenshots/GitHub-Actions-pipeline.png)
 
 
 
@@ -51,3 +65,7 @@ Developer pushes code to GitHub → GitHub Actions builds Docker image → Image
 - EC2 server deployment
 - Manual approval gates
 - Multi-environment release workflow
+
+## Author
+
+Kalkidan Bogale
