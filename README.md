@@ -38,7 +38,7 @@ Developer pushes code to GitHub → GitHub Actions builds Docker image → Image
 
 ## Architecture Diagram
 
-![Architecture Diagram](Screenshots/architecture-diagram.png)
+![Architecture Diagram](Screenshots/ArchDiagram1.png)
 
 ## Screenshots
 
@@ -53,7 +53,6 @@ Developer pushes code to GitHub → GitHub Actions builds Docker image → Image
 
 ### GitHub Actions Pipeline
 ![GitHub](Screenshots/GitHub-Actions-pipeline.png)
-
 
 
 ## What I Learned
